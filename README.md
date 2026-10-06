@@ -61,7 +61,7 @@ A stronger evaluation would split raw rows or independent machine runs first, bu
 
 ### Google Colab
 
-[Open the notebook in Colab](https://colab.research.google.com/github/minhiungan2608/Project-Machine-Failure-Prediction-using-NLP-BERT/blob/main/Last_project.ipynb).
+[Open the notebook in Colab](https://colab.research.google.com/github/minhiungan2608/machine-failure-prediction-bert/blob/main/Last_project.ipynb).
 
 1. Download `machine_failure.csv` from this repository.
 2. Run the notebook in order. If the CSV is absent, its setup cell opens a Colab upload dialog.
