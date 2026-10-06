@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+bert_failure_out/
+exported_model/
+exported_model.zip
+wandb/
+.DS_Store
